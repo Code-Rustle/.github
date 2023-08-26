@@ -10,8 +10,8 @@ Feel free to explore, contribute, or just take a look around. Happy coding!
 
 ## How can you contribute?
 
-**Feedback**: If you find any issues or have suggestions for our tutorials and projects, please open an issue. We love feedback!
-**Contribute**: Want to add a tutorial or enhance an existing one? Submit a pull request! Here's our Contribution Guide.
+- **Feedback**: If you find any issues or have suggestions for our tutorials and projects, please open an issue. We love feedback!
+- **Contribute**: Want to add a tutorial or enhance an existing one? Submit a pull request! Here's our Contribution Guide.
 
 ## Stay Connected
 - **Website**: Check out our official website for more projects and detailed breakdowns.
